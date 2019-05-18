@@ -1,11 +1,23 @@
 {
   "name": "02-homework",
   "version": "1.0.0",
-  "description": "",
+  "description": "--- \r ## Liubov Tcybina\r ---\r ### Bamazon Description\r > amazon-like application created using MySQL, NodeJS",
   "main": "bamazonCustomer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LubavaT/bamazon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LubavaT/bamazon/issues"
+  },
+  "homepage": "https://github.com/LubavaT/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1",
+    "mysql": "^2.17.1"
+  }
 }

@@ -3,10 +3,10 @@
 ## Liubov Tcybina
 ---
 ### Bamazon Description
-> amazon-like application created using MySQL, NodeJS 
+>A amazon-like CLI application (created using MySQL, NodeJS) that will take in orders from customers, and deplete stock from the store's inventory. 
 
 ### Demo Video
-> //link 
+> https://drive.google.com/file/d/19q43qQQkxBi_1PHxpTxv9f85mLopqa-I/view 
 
 ### Technologies used:
 
