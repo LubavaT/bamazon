@@ -1,8 +1,11 @@
-# Bamazon Application
+# 'Bamazon' Application
 --- 
 ## Liubov Tcybina
 ---
-### Bamazon Description
+https://luba-tcybina.github.io/bamazon/
+---
+
+### 'Bamazon' Description
 >A amazon-like CLI application (created using MySQL, NodeJS) that will take in orders from customers, and deplete stock from the store's inventory. 
 
 ### Demo Video
