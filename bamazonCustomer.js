@@ -41,7 +41,7 @@ function queryAllProducts() {
 function startShopping() {
     inquirer.prompt([
         {
-            name: "itemID",
+            name: "itemID", //'label' for the answer
             type: "input",
             message: "What is the ID of the product you would like to buy: "
         },
